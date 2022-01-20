@@ -11,7 +11,7 @@ You can read more about the [application design](./internal-docs/design.md).
 ## Deployment Platforms
 
 The [deploy folder](./deploy/) contains scripts and instructions to provision the application onto your favourite platform.
-Further explanation can be found on ![Sock Shop website] (https://github.com/microservices-demo/microservices-demo.github.io/blob/9cb9d84c046f342b5bc1246f7c6451b1b652bfdf/deployment/docker-compose.md#sock-shop-via-docker-compose)
+Further explanation can be found on ![Sock Shop website] (https://raw.githubusercontent.com/microservices-demo/microservices-demo.github.io/9cb9d84c046f342b5bc1246f7c6451b1b652bfdf/deployment/docker-compose.md)
 
 Please let us know if there is a platform that you would like to see supported.
 
